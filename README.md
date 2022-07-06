@@ -23,16 +23,16 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220525-173950_Termux](https://user-images.githubusercontent.com/81049859/170373228-da0e88c6-e7ed-48fe-b095-28a7c9c1977c.png)
+![Screenshot_20220704-214634_Termux](https://user-images.githubusercontent.com/81049859/177440541-34c38c3c-b761-42a0-821e-20a78defc194.png)
 
-## On Listening :
-![Screenshot_20220525-122205_Termux](https://user-images.githubusercontent.com/81049859/170312295-fa8d674d-8789-4094-ac8f-e3496d297212.png)
+## Personaliza HookLink :
+![Screenshot_20220704-184335_Termux](https://user-images.githubusercontent.com/81049859/177440702-5d2a8655-8346-4ecd-89f4-10639f26eb59.png)
 
-|Server Hack|Server Hack|
+|LAN|WAN|
 |----------|----------|
-|![Screenshot_20220413-201413_Chrome](https://user-images.githubusercontent.com/81049859/163291012-ceb0f48c-549e-4bed-bdc5-ffa0d1588d2a.png)|![Screenshot_20220413-201443_Chrome](https://user-images.githubusercontent.com/81049859/163291034-95a798b5-542e-4ad2-9212-32cfa4eafabd.png)|
+|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177440830-9abc5d59-ba75-45cf-98a6-4f9a5f8fc83f.png)|![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177440849-d87252cc-80cb-42d2-b431-2685d4c4a58d.png)|
 
-## ServerHackCj7 :
+## BeEF-xssCj7 :
 * La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
 * **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
 * **Acceso total** de la raíz (si la víctima es un usuario root).
@@ -52,13 +52,13 @@ https://github.com/Juliocj7/UtilsCj7
 ```bash
   yes|pkg update && pkg upgrade
 ```
-* `git clone https://github.com/Juliocj7/ServerHackCj7`
+* `git clone https://github.com/Juliocj7/BeEF-xssCj7`
 
-* `cd ServerHackCj7`
+* `cd BeEF-xssCj7`
 
 * `chmod +x *`
 
-* `./ServerHackCj7`
+* `./BeEF-xssCj7`
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
