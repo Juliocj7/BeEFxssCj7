@@ -26,11 +26,16 @@
 ![Screenshot_20220704-214634_Termux](https://user-images.githubusercontent.com/81049859/177440541-34c38c3c-b761-42a0-821e-20a78defc194.png)
 
 ## Personaliza HookLink :
-![Screenshot_20220704-184335_Termux](https://user-images.githubusercontent.com/81049859/177440702-5d2a8655-8346-4ecd-89f4-10639f26eb59.png)
+![Screenshot_20220704-184335_Termux](https://user-images.githubusercontent.com/81049859/177444575-6f670794-e7dc-4e23-880a-ce35ea525d3b.png)
 
 |LAN|WAN|
 |----------|----------|
-|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177440830-9abc5d59-ba75-45cf-98a6-4f9a5f8fc83f.png)|![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177440849-d87252cc-80cb-42d2-b431-2685d4c4a58d.png)|
+|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177444723-83bbf938-219d-4436-aade-dad10357dbc8.png)
+
+  |
+![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177444891-24dafc1e-ac70-439b-ae80-ae29b71f01c9.png)
+  
+  |
 
 # Panel de BeEF :
 ![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
