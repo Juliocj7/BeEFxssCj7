@@ -32,6 +32,9 @@
 |----------|----------|
 |![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177440830-9abc5d59-ba75-45cf-98a6-4f9a5f8fc83f.png)|![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177440849-d87252cc-80cb-42d2-b431-2685d4c4a58d.png)|
 
+# Panel de BeEF :
+![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
+
 ## BeEF-xssCj7 :
 * La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
 * **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
