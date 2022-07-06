@@ -30,12 +30,8 @@
 
 |LAN|WAN|
 |----------|----------|
-|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177444723-83bbf938-219d-4436-aade-dad10357dbc8.png)
-
-  |
-![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177444891-24dafc1e-ac70-439b-ae80-ae29b71f01c9.png)
+|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177444723-83bbf938-219d-4436-aade-dad10357dbc8.png)|![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177444891-24dafc1e-ac70-439b-ae80-ae29b71f01c9.png)|
   
-  |
 
 # Panel de BeEF :
 ![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
