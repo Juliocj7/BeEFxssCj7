@@ -36,11 +36,9 @@
 ![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
 
 ## BeEF-xssCj7 :
-* La víctima debe ejecutar **sólo una vez el script** y obtendrás acceso a su dispositivo mediante un **servidor HTTPS** redirigido por conexiones TCP.
-* **Acceso libre** al directorio Home, a la memoria interna y también a la memoria externa (si la tiene insertada).
-* **Acceso total** de la raíz (si la víctima es un usuario root).
-* Descarga **archivos y directorios completos** de la víctima de una manera rápida, fácil y sencilla.
-* Si el ataque sigue su curso se logrará capturar también las **credenciales** de FACEBOOK.
+* La víctima debe hacer click **sólo una vez en el enlace** y obtendrás acceso a su navegador mediante la vulnerabilidad Cross Site Scripting.
+* Realiza tus ataques **dentro y fuera** de tu red local.
+* Guías y mucho más que te **ayudarán a comprender** y dominar el framework.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
