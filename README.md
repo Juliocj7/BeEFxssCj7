@@ -37,7 +37,7 @@
 
 ## BeEF-xssCj7 :
 * La víctima debe hacer click **sólo una vez en el enlace** y obtendrás acceso a su navegador mediante la vulnerabilidad Cross Site Scripting.
-* Realiza tus ataques **dentro y fuera** de tu red local.
+* Realiza tus ataques **dentro y fuera** de tu red local de una manera rápida, práctica y sencilla.
 * Guías y mucho más que te **ayudarán a comprender** y dominar el framework.
 * Contenido, código, diseño y demás, pertenecen plena y totalmente a mí :sunglasses:
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
