@@ -23,7 +23,7 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20220704-214634_Termux](https://user-images.githubusercontent.com/81049859/177440541-34c38c3c-b761-42a0-821e-20a78defc194.png)
+![Screenshot_20221229-085826_Termux](https://user-images.githubusercontent.com/81049859/209954711-712baf88-16ae-4d73-8dbf-d1d677e67765.png)
 
 ## Personaliza HookLink :
 ![Screenshot_20220704-184335_Termux](https://user-images.githubusercontent.com/81049859/177444575-6f670794-e7dc-4e23-880a-ce35ea525d3b.png)
