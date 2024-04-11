@@ -23,15 +23,14 @@
 </details>
 
 ## Menú Principal :
-![Screenshot_20221229-085826_Termux](https://user-images.githubusercontent.com/81049859/209954711-712baf88-16ae-4d73-8dbf-d1d677e67765.png)
+![1000328869](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/ce67d50f-67cf-4733-9453-d10e0c80d7a9)
 
 ## Personaliza HookLink :
-![Screenshot_20220704-184335_Termux](https://user-images.githubusercontent.com/81049859/177444575-6f670794-e7dc-4e23-880a-ce35ea525d3b.png)
+![1000328875](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/15dc6007-e9d9-4769-9d6f-a05e3560cdcd)
 
 |LAN|WAN|
 |----------|----------|
-|![Screenshot_20220704-010937_Termux](https://user-images.githubusercontent.com/81049859/177444723-83bbf938-219d-4436-aade-dad10357dbc8.png)|![Screenshot_20220704-011732_Termux](https://user-images.githubusercontent.com/81049859/177444891-24dafc1e-ac70-439b-ae80-ae29b71f01c9.png)|
-  
+|![1000328868](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/dcf46a60-9d94-4bb3-b309-69557e746415)|![1000328876](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/152b92e1-30f2-49ce-b144-a9d62cbe87a1)|
 
 # Panel de BeEF :
 ![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
