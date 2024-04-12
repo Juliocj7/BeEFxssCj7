@@ -25,6 +25,19 @@
 ## Menú Principal :
 ![1000328869](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/ce67d50f-67cf-4733-9453-d10e0c80d7a9)
 
+<div align="justify">
+  <details align="center">
+    <summary> 𝙳𝚒𝚜𝚌𝚕𝚊𝚒𝚖𝚎𝚛 </summary>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+    <br>
+    <samp>
+Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEF-xssCj7 para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. El desarrollador no asumen ninguna responsabilidad y no es responsable de ningún mal uso o daño causado por este programa. ¡Úsalo responsablemente!
+    </samp>
+    <br>
+    <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
+  </details>
+</div>
+
 ## Personaliza HookLink :
 ![1000328875](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/15dc6007-e9d9-4769-9d6f-a05e3560cdcd)
 
@@ -43,16 +56,13 @@
 - > ` By: ⍣᭕ᬁ᭖JulioCj7᭖᭕ᬁ⍣ `
 
 # Instalación :
-
-* Para un correcto funcionamiento de la herramienta porfavor instale los [recursos básicos](https://github.com/Juliocj7/UtilsCj7) para termux :
-
-~~~
-https://github.com/Juliocj7/UtilsCj7
-~~~
+> [!NOTE]  
+> Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
 ```bash
-  yes|pkg update && pkg upgrade
+  yes|apt update && apt upgrade
 ```
+
 * `git clone https://github.com/Juliocj7/BeEF-xssCj7`
 
 * `cd BeEF-xssCj7`
