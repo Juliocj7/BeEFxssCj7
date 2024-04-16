@@ -79,17 +79,18 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEF-xs
 > [!NOTE]  
 > Para un correcto funcionamiento de esta herramienta porfavor instale los • [recursos básicos](https://github.com/Juliocj7/UtilsCj7) • para termux.
 
-```bash
-  yes|apt update && apt upgrade
+###### 01. Actualizar paquetes
+```shell
+yes|{apt update && apt upgrade}
 ```
-
-* `git clone https://github.com/Juliocj7/BeEF-xssCj7`
-
-* `cd BeEF-xssCj7`
-
-* `chmod +x *`
-
-* `./BeEF-xssCj7`
+###### 02. Clonar repositorio
+```shell
+gh repo clone Juliocj7/BeEF-xssCj7
+```
+###### 03. Ahora disfruta xD
+```shell
+cd BeEF-xssCj7 && chmod +x * && ./BeEF-xssCj7
+```
 
 ---
 ###### `Pd: Porfavor informar cualquier error`
