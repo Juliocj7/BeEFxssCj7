@@ -51,7 +51,7 @@ ______________________________________________________
     <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
     <br>
     <samp>
-Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEF-xssCj7 para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. El desarrollador no asumen ninguna responsabilidad y no es responsable de ningún mal uso o daño causado por este programa. ¡Úsalo responsablemente!
+Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEFxssCj7 para atacar objetivos sin previo consentimiento mutuo es ilegal. Es responsabilidad del usuario final obedecer todas las leyes locales, estatales y federales aplicables. El desarrollador no asumen ninguna responsabilidad y no es responsable de ningún mal uso o daño causado por este programa. ¡Úsalo responsablemente!
     </samp>
     <br>
     <img src= "https://github.com/Juliocj7/Juliocj7/blob/main/BarCj7.gif" />
@@ -68,7 +68,7 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEF-xs
 # Panel de BeEF :
 ![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
 
-## BeEF-xssCj7 :
+## BeEFxssCj7 :
 * La víctima debe hacer click **sólo una vez en el enlace** y obtendrás acceso a su navegador mediante la vulnerabilidad Cross Site Scripting.
 * Realiza tus ataques **dentro y fuera** de tu red local de una manera rápida, práctica y sencilla.
 * Guías y mucho más que te **ayudarán a comprender** y dominar el framework.
@@ -85,11 +85,11 @@ yes|{apt update && apt upgrade}
 ```
 ###### 02. Clonar repositorio
 ```shell
-gh repo clone Juliocj7/BeEF-xssCj7
+gh repo clone Juliocj7/BeEFxssCj7
 ```
 ###### 03. Ahora disfruta xD
 ```shell
-cd BeEF-xssCj7 && chmod +x * && ./BeEF-xssCj7
+cd BeEFxssCj7 && chmod +x * && ./BeEFxssCj7
 ```
 
 ---
