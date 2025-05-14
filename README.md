@@ -42,7 +42,7 @@
 </div>
 
 ## Menú Principal :
-![1000328869](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/ce67d50f-67cf-4733-9453-d10e0c80d7a9)
+[![1000604950](https://github.com/user-attachments/assets/a867378b-3190-4778-8f79-2534d5c75ed0)](#---)
 
 <div align="justify">
   <details align="center">
@@ -60,12 +60,13 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEFxss
 ## Personaliza HookLink :
 ![1000328875](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/15dc6007-e9d9-4769-9d6f-a05e3560cdcd)
 
-|𝙻𝙰𝙽|𝚆𝙰𝙽|
-|----------|----------|
+| 𝙻𝙰𝙽 | 𝚆𝙰𝙽 |
+|:---:|:---:|
 |![1000328868](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/dcf46a60-9d94-4bb3-b309-69557e746415)|![1000328876](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/152b92e1-30f2-49ce-b144-a9d62cbe87a1)|
 
-# Panel de BeEF :
-![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)
+|𝚋𝚎𝚎𝚏 𝚙𝚊𝚗𝚎𝚕|
+|:--------:|
+|![Screenshot_20220704-200351_Chrome](https://user-images.githubusercontent.com/81049859/177441404-c7c1ffdb-11dc-471d-8900-ed8b0da7a351.png)|
 
 ## BeEFxssCj7 :
 * La víctima debe hacer click sólo una vez en el enlace y obtendrás acceso a su navegador mediante la vulnerabilidad Cross Site Scripting.
