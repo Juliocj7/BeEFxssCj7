@@ -57,10 +57,11 @@ Descargo de responsabilidad legal: sólo con fines educativos. El uso de BeEFxss
   </details>
 </div>
 
-## Personaliza HookLink :
-![1000328875](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/15dc6007-e9d9-4769-9d6f-a05e3560cdcd)
+|𝚖𝚊𝚜𝚔 𝚑𝚘𝚘𝚔 𝚕𝚒𝚗𝚔|
+|:---------------:|
+|![1000328875](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/15dc6007-e9d9-4769-9d6f-a05e3560cdcd)|
 
-| 𝙻𝙰𝙽 | 𝚆𝙰𝙽 |
+| 𝚕𝚊𝚗 | 𝚠𝚊𝚗 |
 |:---:|:---:|
 |![1000328868](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/dcf46a60-9d94-4bb3-b309-69557e746415)|![1000328876](https://github.com/Juliocj7/BeEF-xssCj7/assets/81049859/152b92e1-30f2-49ce-b144-a9d62cbe87a1)|
 
